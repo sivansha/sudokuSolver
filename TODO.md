@@ -3,7 +3,5 @@ Image processing:
 2. start learning method
 
 Solver:
-1. finish function getRegion
-2. finish function findAllPossibilities
-3. finish solver
-4. test solver
+1. finish solver
+2. test solver
