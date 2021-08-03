@@ -13,3 +13,5 @@ Method 2 - learning techniques
 ### Solver:
 Finds all possible numbers for each square, if there are no squares with only single option, back-track from the square
 with the minimal possibilities.
+
+### Test from Alain
